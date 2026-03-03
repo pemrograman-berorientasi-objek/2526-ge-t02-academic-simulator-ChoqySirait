@@ -1,6 +1,7 @@
 Sudah menyelesaikan tugas
 GuideChatbot yang digunakan sangat membantu karena jika sudah memberikan kejelasan di 4 pilar promt yaitu:
-1. kejelasan & kekhususan
-2. kontekstualiasai
-3. struktur dan format
-4  batasan
+    1. kejelasan & kekhususan
+    2. kontekstualiasai
+    3. struktur dan format
+    4.  batasan
+Tidak ada error dalam pengerjaan
